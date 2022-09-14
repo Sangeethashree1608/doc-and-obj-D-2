@@ -1,0 +1,19 @@
+Difference between documnet and window object:
+
+1. The document object is a property of a windoww type.
+
+2. The window object represents the browser window.
+
+3. The document object represents the HTML document loaded in that window.
+
+4. The document object represent a web page that is loaded in the browser. 
+
+5. With the help of document objects, we can add dynamic content to our web page.
+
+Methods of document-->
+
+1. addEventListener(): It is used to attach an event handler to the specified element.
+
+2. adoptNode(): It is used to adopt a node from another document and it returns a node object, representing the adopted node.
+
+3. close(): It is used to close the output stream.
